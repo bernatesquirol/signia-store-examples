@@ -1,7 +1,7 @@
 {
   "name": "signia-store-examples",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.8",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,9 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@natesq/signia-store": "^0.0.6",
+    "@monaco-editor/react": "^4.4.6",
+    "@natesq/signia-store": "^0.0.8",
+    "@natesq/signia-store-react": "^0.0.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "reactflow": "^11.6.1",
     "signia": "^0.0.11",
     "signia-react": "^0.0.11"
   },
