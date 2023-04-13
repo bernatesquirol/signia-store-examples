@@ -12,7 +12,9 @@ function App() {
   return (
     // <Flow/>
     <>
+    <b>BASIC:</b>
     <Basic></Basic>
+    <b>GRID:</b>
     <Grid></Grid>
     </>
   )
