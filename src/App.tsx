@@ -5,13 +5,16 @@ import { atom, computed, get, getAtoms } from '@natesq/signia-store'
 import {useMemo} from 'react'
 import Flow from './examples/flow/flow'
 import Basic from './examples/basic/basic'
+import Grid from './examples/grid/Grid'
 
 function App() {
   // const nameAtom = useAtom('name','asdf')
   return (
     // <Flow/>
+    <>
     <Basic></Basic>
-    
+    <Grid></Grid>
+    </>
   )
 }
 
