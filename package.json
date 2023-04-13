@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "@monaco-editor/react": "^4.4.6",
-    "@natesq/signia-store": "^0.0.8",
-    "@natesq/signia-store-react": "^0.0.8",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "@natesq/signia-store": "^0.1.21",
+    "@natesq/signia-store-react": "^0.1.16",
+    "react": "^0.0.0-experimental-85de6fde5-20230328",
+    "react-dom": "^0.0.0-experimental-85de6fde5-20230328",
     "reactflow": "^11.6.1",
     "signia": "^0.0.11",
     "signia-react": "^0.0.11"
